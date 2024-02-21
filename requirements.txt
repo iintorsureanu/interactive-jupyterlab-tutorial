@@ -16,6 +16,8 @@ contourpy==1.2.0
     #   matplotlib
 cycler==0.12.1
     # via matplotlib
+et-xmlfile==1.1.0
+    # via openpyxl
 fonttools==4.49.0
     # via matplotlib
 idna==3.6
@@ -35,6 +37,8 @@ numpy==1.26.4
     #   contourpy
     #   matplotlib
     #   pandas
+openpyxl==3.1.2
+    # via -r requirements.in
 packaging==23.2
     # via
     #   bokeh
