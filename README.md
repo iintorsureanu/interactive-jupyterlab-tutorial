@@ -1,8 +1,10 @@
 This is a fork of:
 https://github.com/ine-rmotr-curriculum/freecodecamp-intro-to-numpy
-- I corrected some errors in the second part of the turorial (due to outdated API, package versions).
+- I corrected some errors in the second part of the tutorial (due to outdated API, package versions).
 See also: https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-course/numpy-introduction-a
+
 ======================
+
 ### rmotr.com
 # Data Science with Python Course
 
